@@ -15,7 +15,7 @@
 
 ![](./Screenshot%202024-04-04%20135302.png)
 
-```
+```sql
 CREATE TABLE IF NOT EXISTS User
 (
     id      INT AUTO_INCREMENT PRIMARY KEY,
